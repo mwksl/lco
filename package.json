@@ -1,15 +1,15 @@
 {
-  "name": "react-boilerplate",
+  "name": "Lost coordinates",
   "version": "3.2.1",
-  "description": "A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices",
+  "description": "A react-based blogging platform",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mxstbr/react-boilerplate.git"
+    "url": "https://github.com/mwkls/lco.git"
   },
   "engines": {
     "npm": ">=3"
   },
-  "author": "Max Stoiber",
+  "author": "Matthew Stingel",
   "license": "MIT",
   "scripts": {
     "analyze:clean": "rimraf stats.json",
